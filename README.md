@@ -9,6 +9,16 @@ A custom **Teensy 4.1-based PCB** designed by **[Sidbit08](https://github.com/Si
 - Robotic-arm interfacing (actuator details and pin mapping to be verified).
 - Teensy 4.1 controller, LM2596 power-module footprint, and power/signal connectors.
 
+## PCB Design
+
+**PCB layout — KiCad PCB Editor**
+
+![Teensy Teleops Board PCB layout](images/pcb-layout.png)
+
+**3D PCB view — KiCad 3D Viewer**
+
+![Teensy Teleops Board 3D model](images/pcb-3d-view.png)
+
 ## Design Files
 
 | Files / folder | Contents |
